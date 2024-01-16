@@ -1,4 +1,2 @@
-builds:
-  131e1758-d1da-4f6b-44a9-1a769dcac6a2:
-    version: 0.1.0
+builds: {}
 format-version: "2"
