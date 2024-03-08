@@ -37,12 +37,12 @@ builds:
     version: 0.3.17
   d1d0b4d7-63ba-4951-5fb2-faa0e2dfa235:
     version: 0.3.13
-  d8eddda3-ee27-4bcf-47e5-b2918bf41819:
-    version: 0.3.0
   d98d6184-ba16-4bdc-69ec-b7c7358f4bf9:
     version: 0.3.2
   db75e3c6-b931-4852-67f9-9ddf7ba25b10:
     version: 0.3.9
+  e6fdeb89-0236-41a0-5e05-0c7c86bfe938:
+    version: 0.3.0
   eb84fa1e-b3ec-4cb1-69f6-ee8939b0d219:
     version: 0.3.20
 format-version: "2"
