@@ -61,8 +61,6 @@ builds:
     version: 0.3.62
   33d53f2a-50b3-4dba-5766-5fd708462cad:
     version: 0.3.38
-  3596bd09-abda-4b46-7e05-28b9fedd1e4c:
-    version: 0.3.0
   37150aa7-43b0-47f2-4b29-f14af282e73b:
     version: 0.3.81
   3a7944d6-f698-401d-4b57-e2a263c68de0:
@@ -263,6 +261,8 @@ builds:
     version: 0.3.50
   ea3fe74b-fcaa-4460-77b1-bdf9a7131098:
     version: 0.3.76
+  ea99df9d-ea18-4063-41ef-5225d6a52fe8:
+    version: 0.3.0
   eacb531a-a857-4376-539f-a6d261436b9e:
     version: 0.3.112
   eb84fa1e-b3ec-4cb1-69f6-ee8939b0d219:
