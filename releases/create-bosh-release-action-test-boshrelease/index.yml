@@ -9,8 +9,6 @@ builds:
     version: 0.3.105
   05638702-abef-4d5c-6423-49c6d21d27ad:
     version: 0.3.142
-  05a9cc6a-5980-4254-567b-288b7627336a:
-    version: 0.3.0
   06148209-14a0-43fb-5a21-7e8789bbb156:
     version: 0.3.215
   06cdcfd8-826a-472c-406f-ab055cccf747:
@@ -309,6 +307,8 @@ builds:
     version: 0.3.221
   ad8c56e5-bc4a-49a6-50b7-cf26b5dc90f6:
     version: 0.3.118
+  af454aca-5b42-4de7-7abf-d04cc5fb2b1b:
+    version: 0.3.0
   af9031dc-1855-4e3b-6d58-772968b6d961:
     version: 0.3.208
   b17c61fa-067f-43a2-7d61-f35284359691:
