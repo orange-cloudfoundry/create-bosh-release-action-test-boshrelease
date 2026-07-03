@@ -1,0 +1,5 @@
+name: create-bosh-release-action-test-boshrelease
+version: 0.3.275
+commit_hash: 3f73013
+uncommitted_changes: true
+no_compression: false
